@@ -10,7 +10,7 @@
 
 <p align="center">
   - 🎓 Estudante de Sistemas de Informação em UFRPE <br>
-  - 💼 À procura da primeira oportunidade de emprego <br>
+  - 💼 Atualmente focando em projetos acadêmicos <br>
   - 💬 Fale comigo: diegoclebson32@gmail.com <br>
 </p>
 
