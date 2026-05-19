@@ -10,7 +10,7 @@
 
 <p align="center">
 
-Opa! Me chamo Diego Clebson e sou um admirador da área de tecnologia e estudante de Data Science.
+Opa! Me chamo Diego Clebson e sou um admirador da área de tecnologia e estudante focado em IT Infrastructure, soluções de IA e computação em nuvem.
 
 </p>
 
